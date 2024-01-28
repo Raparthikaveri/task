@@ -1,0 +1,1 @@
+[11-Jan-2024 05:41:24 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 266342400 bytes) in /home3/sbsofkvq/php8/testserverdesigns.com/tmsportal/app/Http/Controllers/WidgetController.php on line 45
